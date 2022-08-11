@@ -8,3 +8,4 @@ class RustyCalc < Formula
   def install
     bin.install "rc_bin"
   end
+end
