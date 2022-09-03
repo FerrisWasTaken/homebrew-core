@@ -2,7 +2,7 @@ class RustyCalc < Formula
   desc "A calculator written in Rust"
   homepage "https://github.com/muppi090909/rusty_calc"
   url "https://github.com/muppi090909/rusty_calc/releases/download/0.1.0/homebrew-pck.tar.bz2"
-  sha256 "0781f3f8b48beb09ff960099dd9f071f297daeb44c4309c3184348a573ca607c"
+  sha256 "b0b9bf6b2295545e9a14d775e8d21f1e67004f4c398d08041c8f86432e14035f"
   version "0.1.0"
 
   def install
